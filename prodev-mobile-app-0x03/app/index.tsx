@@ -1,7 +1,7 @@
 import { Text, TextInput, View, TouchableOpacity, Image} from "react-native";
 import { SafeAreaView, SafeAreaProvider } from "react-native-safe-area-context";
 import { FontAwesome, Ionicons } from "@expo/vector-icons";
-import styles from "@/styles/index";
+import { styles } from "@/styles/index";
 
 
 export default function Index() {
