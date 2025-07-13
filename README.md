@@ -8,3 +8,7 @@ Android: Install from the Google Play Store.
 iOS: Install from the Apple App Store.
 Open the Expo Go app on your device.
 Create a new account or log in if you already have one.
+ 
+ ## challenges
+ None so far
+ 
